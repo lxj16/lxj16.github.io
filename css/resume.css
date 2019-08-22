@@ -86,7 +86,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #bd5d38;
+  color: #23722d;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -115,6 +115,7 @@ p.lead {
     width: 17rem;
     height: 100vh;
   }
+
   #sideNav .navbar-brand {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -122,11 +123,13 @@ p.lead {
     margin: auto auto 0;
     padding: 0.5rem;
   }
+
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
+
   #sideNav .navbar-collapse {
     display: -webkit-box;
     display: -ms-flexbox;
